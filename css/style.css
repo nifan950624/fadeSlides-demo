@@ -1,0 +1,10 @@
+
+div ul{
+    position: relative;
+    list-style: none;
+    width: 590px;
+    margin: 20px auto;
+}
+div ul li{
+    position: absolute;
+}
